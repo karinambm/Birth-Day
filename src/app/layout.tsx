@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "MBM Hub | Aniversariantes",
-    template: "%s | MBM Hub",
+    default: "MBM | Aniversariantes",
+    template: "%s | MBM",
   },
   description:
     "Hub interno da MBM Solutions. Acompanhe os aniversariantes do mês e celebre com o time.",
