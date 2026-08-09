@@ -34,6 +34,9 @@ yarn-error.log*
 .env.local
 !.env.example
 
+# planilhas de importação (dados pessoais dos colaboradores)
+*.csv
+
 # vercel
 .vercel
 
